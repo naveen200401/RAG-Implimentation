@@ -1,0 +1,14 @@
+# Minimal requirements for Streamlit Cloud deployment
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+google-generativeai
+chromadb
+sentence-transformers
+pypdf
+pytesseract
+Pillow
+python-dotenv
